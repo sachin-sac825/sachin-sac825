@@ -31,7 +31,7 @@ Machine Learning, and Data Science.
 </p>
 
 <p align="center">
-  <a href="mailto:oneandonlysachin30@gmail.com">
+  <a href="oneandonlysachin30@gmail.com">
     <img src="https://img.shields.io/badge/Email-your.email%40example.com-6C63FF?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/sachin-s-430873355">
