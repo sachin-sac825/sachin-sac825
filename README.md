@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- ================= TYPING BANNER ================= -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/sachin-sac825">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sachin+S;AI+%26+Machine+Learning+Engineering+Student;Building+Intelligent+Systems+with+Python;Turning+Data+into+Decisions;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- ================= PROFILE VIEWS / SOCIAL ================= -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=6C63FF&label=FOLLOWERS" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=sachin-sac825&style=flat-square&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/sachin-sac825?style=flat-square&color=6C63FF&label=FOLLOWERS" alt="Followers"/>
 
 </div>
 
@@ -37,7 +37,7 @@ Machine Learning, and Data Science.
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/sachin-sac825">
     <img src="https://img.shields.io/badge/GitHub-Follow-6C63FF?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -146,7 +146,7 @@ Real-time hand gesture recognition system that controls YouTube playback directl
 <img src="https://img.shields.io/badge/Computer%20Vision-6C63FF?style=flat-square" alt="Computer Vision"/>
 <img src="https://img.shields.io/badge/Automation-6C63FF?style=flat-square" alt="Automation"/>
 
-**[View Repository →](https://github.com/YOUR_GITHUB_USERNAME/hand-gesture-youtube-control)**
+**[View Repository →](https://github.com/sachin-sac825/hand-gesture-youtube-control)**
 
 </td>
 <td width="50%" valign="top">
@@ -163,7 +163,7 @@ Autonomous AI agent framework that automates multi-step tasks using large langua
 <img src="https://img.shields.io/badge/LLM-6C63FF?style=flat-square" alt="LLM"/>
 <img src="https://img.shields.io/badge/Agents-6C63FF?style=flat-square" alt="Agents"/>
 
-**[View Repository →](https://github.com/YOUR_GITHUB_USERNAME/ai-agents)**
+**[View Repository →](https://github.com/sachin-sac825/ai-agents)**
 
 </td>
 </tr>
@@ -184,7 +184,7 @@ ML-based fraud detection system that flags fraudulent UPI transactions using eng
 <img src="https://img.shields.io/badge/FinTech-6C63FF?style=flat-square" alt="FinTech"/>
 <img src="https://img.shields.io/badge/ML%20Classification-6C63FF?style=flat-square" alt="ML Classification"/>
 
-**[View Repository →](https://github.com/YOUR_GITHUB_USERNAME/upi-fraud-detection)**
+**[View Repository →](https://github.com/sachin-sac825/upi-fraud-detection)**
 
 </td>
 <td width="50%" valign="top">
@@ -202,7 +202,7 @@ Smart city solution that optimizes traffic signals in real time using traffic de
 <img src="https://img.shields.io/badge/Smart%20City-6C63FF?style=flat-square" alt="Smart City"/>
 <img src="https://img.shields.io/badge/IoT-6C63FF?style=flat-square" alt="IoT"/>
 
-**[View Repository →](https://github.com/YOUR_GITHUB_USERNAME/smart-traffic-management)**
+**[View Repository →](https://github.com/sachin-sac825/smart-traffic-management)**
 
 </td>
 </tr>
@@ -222,7 +222,7 @@ Interactive analytics dashboard that transforms raw datasets into actionable bus
 <img src="https://img.shields.io/badge/Analytics-6C63FF?style=flat-square" alt="Analytics"/>
 <img src="https://img.shields.io/badge/BI-6C63FF?style=flat-square" alt="BI"/>
 
-**[View Repository →](https://github.com/YOUR_GITHUB_USERNAME/data-visualization-dashboard)**
+**[View Repository →](https://github.com/sachin-sac825/data-visualization-dashboard)**
 
 </td>
 <td width="50%" valign="top">
@@ -233,7 +233,7 @@ Interactive analytics dashboard that transforms raw datasets into actionable bus
 
 **More projects on my profile**
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+<a href="https://github.com/sachin-sac825?tab=repositories">
 <img src="https://img.shields.io/badge/View%20All%20Repositories-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
 </a>
 
@@ -249,10 +249,10 @@ Interactive analytics dashboard that transforms raw datasets into actionable bus
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sachin-sac825&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-sac825&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-sac825&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 
 </div>
 
@@ -260,7 +260,7 @@ Interactive analytics dashboard that transforms raw datasets into actionable bus
 
 ### Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-sac825&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" alt="Activity Graph" width="100%"/>
 
 </div>
 
@@ -268,7 +268,7 @@ Interactive analytics dashboard that transforms raw datasets into actionable bus
 
 ### Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sachin-sac825&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
 
 </div>
 
