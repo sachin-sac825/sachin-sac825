@@ -31,10 +31,10 @@ Machine Learning, and Data Science.
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:oneandonlysachin30@gmail.com">
     <img src="https://img.shields.io/badge/Email-your.email%40example.com-6C63FF?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/sachin-s-430873355">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/sachin-sac825">
