@@ -146,7 +146,7 @@ Real-time hand gesture recognition system that controls YouTube playback directl
 <img src="https://img.shields.io/badge/Computer%20Vision-6C63FF?style=flat-square" alt="Computer Vision"/>
 <img src="https://img.shields.io/badge/Automation-6C63FF?style=flat-square" alt="Automation"/>
 
-**[View Repository →](https://github.com/sachin-sac825/hand-gesture-youtube-control)**
+**[View Repository →](https://github.com/sachin-sac825/hand-gesture-app)**
 
 </td>
 <td width="50%" valign="top">
