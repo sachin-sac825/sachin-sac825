@@ -1,7 +1,10 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,100:1a1a2e&height=220&section=header&text=SACHIN S%20S&fontSize=52&fontColor=e8e8f0&fontAlign=50&fontAlignY=38&desc=AI%20%26amp%3B%20Machine%20Learning%20Engineering%20Student&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<br>
 
 <!-- ================= TYPING BANNER ================= -->
 <a href="https://github.com/sachin-sac825">
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sachin+S;AI+%26+Machine+Learning+Engineering+Student;Building+Intelligent+Systems+with+Python;Turning+Data+into+Decisions;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
 </a>
 
