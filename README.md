@@ -1,16 +1,14 @@
 <div align="center">
- 
+
 <br>
 
 <!-- ================= TYPING BANNER ================= -->
 <a href="https://github.com/sachin-sac825">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sachin+S;AI+%26+Machine+Learning+Engineering+Student;Building+Intelligent+Systems+with+Python;Turning+Data+into+Decisions;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=850&lines=I+teach+machines+to+see%2C+decide%2C+and+act;I'm+Sachin+S+%E2%80%94+AI+%26+ML+Engineer+in+training;Currently%3A+turning+gestures+into+commands;Currently%3A+turning+transactions+into+trust+scores;Next%3A+your+team%3F" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ================= PROFILE VIEWS / SOCIAL ================= -->
 <img src="https://komarev.com/ghpvc/?username=sachin-sac825&style=flat-square&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/sachin-sac825?style=flat-square&color=6C63FF&label=FOLLOWERS" alt="Followers"/>
 
@@ -18,30 +16,33 @@
 
 <br/>
 
-<!-- ================= HERO SECTION ================= -->
+<!-- ================= HERO ================= -->
 <table align="center">
 <tr>
 <td width="100%">
 
-<h1 align="center">Sachin S</h1>
-<h3 align="center">AI &amp; Machine Learning Engineering Student</h3>
+<h1 align="center">👋 Sachin S</h1>
+<h3 align="center">I build things that learn.</h3>
 
 <p align="center">
-Final-year B.E. Computer Science Engineering (AI &amp; ML) student focused on building practical,
-production-oriented AI and software solutions — from computer vision automation to fraud detection
-and generative AI systems. Actively seeking internship opportunities in Software Engineering,
-Machine Learning, and Data Science.
+Final-year AI &amp; ML Engineering student who got tired of reading about intelligent systems<br/>
+and started shipping them instead — a webcam that reads your hand, a model that sniffs out<br/>
+fraud in UPI transactions, and a traffic grid that thinks for itself.<br/>
+Currently hunting for an internship where I can break (and fix) things at scale.
 </p>
 
 <p align="center">
   <a href="mailto:oneandonlysachin30@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-6C63FF?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-6C63FF?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://linkedin.com/in/sachin-s-430873355">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/sachin-sac825">
     <img src="https://img.shields.io/badge/GitHub-Follow-6C63FF?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/Sachincoder25/">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
@@ -51,34 +52,32 @@ Machine Learning, and Data Science.
 
 <br/>
 
-## About Me
+## 🧭 The Short Version
 
 ```yaml
 sachin_s:
-  role: "AI & Machine Learning Engineering Student"
-  degree: "B.E. Computer Science Engineering (Artificial Intelligence & Machine Learning)"
+  currently: "Final-year B.E. CSE (AI & ML), graduating 2027"
   college: "Nagarjuna College of Engineering and Technology"
-  graduation: "2027"
-  location: "India"
-  focus:
-    - "Machine Learning & Deep Learning"
-    - "Computer Vision & Automation"
-    - "Data Science & Analytics"
-    - "Generative AI & LLMs"
-  looking_for:
-    - "Software Engineering Internships"
-    - "AI / ML Internships"
-    - "Data Science Roles"
-    - "Python & Full Stack Development"
+  based_in: "India"
+  obsessed_with:
+    - "Making computer vision do useful, unglamorous things"
+    - "Catching fraud before it happens, not after"
+    - "Teaching LLM agents to run multi-step tasks unsupervised"
+  hunting_for:
+    - "Software Engineering / ML Internships"
+    - "Data Science roles"
+    - "Anyone who wants a Python + AI generalist on the team"
+  will_talk_your_ear_off_about:
+    - "Whether X problem can just... be automated with AI"
 ```
 
 <br/>
 
-## Tech Stack
+## 🛠️ What I Reach For
 
 <div align="center">
 
-**Languages**
+**Core Languages**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
@@ -86,7 +85,7 @@ sachin_s:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
-**AI / Machine Learning / Data Science**
+**AI / ML / Data**
 
 <img src="https://img.shields.io/badge/Machine%20Learning-6C63FF?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
@@ -95,12 +94,15 @@ sachin_s:
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Data%20Visualization-6C63FF?style=for-the-badge&logo=powerbi&logoColor=white" alt="Data Visualization"/>
 
-**Tools &amp; Platforms**
+**Tools, Cloud &amp; Platforms**
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
 <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=oracle&logoColor=white" alt="DBMS"/>
-<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Computing"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow"/>
 
 </div>
 
@@ -114,7 +116,7 @@ sachin_s:
 
 <br/>
 
-## Currently Learning
+## 🧪 Currently in the Lab
 
 <div align="center">
 
@@ -123,28 +125,29 @@ sachin_s:
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
 <img src="https://img.shields.io/badge/Generative%20AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+<img src="https://img.shields.io/badge/LLM%20Agents-6C63FF?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Agents"/>
 
 </div>
 
 <br/>
 
-## Featured Projects
+## 🚀 Things I've Actually Built
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### Hand Gesture Control for YouTube
+### 🖐️ Hand Gesture Control for YouTube
 **Python · MediaPipe · OpenCV · TensorFlow Lite**
 
-Real-time hand gesture recognition system that controls YouTube playback directly from webcam input — no mouse or keyboard needed.
+No mouse, no remote — just your hand and a webcam. Real-time gesture recognition that drives YouTube playback like it's the future.
 
-- Play / Pause via gesture
-- Forward / backward seeking
-- Volume and fullscreen control
-- Real-time gesture detection pipeline
+- Play / pause with a gesture
+- Seek forward / backward
+- Volume + fullscreen control
+- Sub-second detection pipeline
 
 <img src="https://img.shields.io/badge/Computer%20Vision-6C63FF?style=flat-square" alt="Computer Vision"/>
 <img src="https://img.shields.io/badge/Automation-6C63FF?style=flat-square" alt="Automation"/>
@@ -154,14 +157,14 @@ Real-time hand gesture recognition system that controls YouTube playback directl
 </td>
 <td width="50%" valign="top">
 
-### AI Agents
+### 🤖 AI Agents
 **Python · LLMs · Automation**
 
-Autonomous AI agent framework that automates multi-step tasks using large language models and structured prompt engineering.
+An autonomous agent framework that takes a goal, breaks it into steps, and just... does the task. Structured prompt engineering meets real workflow automation.
 
-- Intelligent task automation
-- AI-powered decision workflows
-- Custom prompt engineering pipelines
+- Multi-step task automation
+- AI-driven decision workflows
+- Custom prompt pipelines
 
 <img src="https://img.shields.io/badge/LLM-6C63FF?style=flat-square" alt="LLM"/>
 <img src="https://img.shields.io/badge/Agents-6C63FF?style=flat-square" alt="Agents"/>
@@ -174,15 +177,15 @@ Autonomous AI agent framework that automates multi-step tasks using large langua
 <tr>
 <td width="50%" valign="top">
 
-### UPI Fraud Detection System
+### 💳 UPI Fraud Detection System
 **Python · Machine Learning · Pandas · NumPy · Scikit-learn**
 
-ML-based fraud detection system that flags fraudulent UPI transactions using engineered features and supervised learning models.
+Built to catch the transaction that shouldn't exist. Engineered features and supervised learning flag fraudulent UPI activity before it does damage.
 
-- Data preprocessing and cleaning
+- Data preprocessing &amp; cleaning
 - Feature engineering pipeline
-- Fraud prediction using ML models
-- Evaluation via accuracy, precision, recall
+- Fraud prediction via ML models
+- Evaluated on accuracy, precision, recall
 
 <img src="https://img.shields.io/badge/FinTech-6C63FF?style=flat-square" alt="FinTech"/>
 <img src="https://img.shields.io/badge/ML%20Classification-6C63FF?style=flat-square" alt="ML Classification"/>
@@ -192,15 +195,15 @@ ML-based fraud detection system that flags fraudulent UPI transactions using eng
 </td>
 <td width="50%" valign="top">
 
-### Smart Traffic Management System
+### 🚦 Smart Traffic Management System
 **Python · AI/ML · IoT Concepts · Computer Vision**
 
-Smart city solution that optimizes traffic signals in real time using traffic density analysis and computer vision.
+Signals that think. Real-time traffic density analysis reroutes green lights and clears the way for emergency vehicles — before the jam even forms.
 
 - Intelligent signal optimization
-- Real-time traffic density analysis
+- Real-time density analysis
 - Emergency vehicle prioritization
-- Reduced congestion at intersections
+- Measurably reduced congestion
 
 <img src="https://img.shields.io/badge/Smart%20City-6C63FF?style=flat-square" alt="Smart City"/>
 <img src="https://img.shields.io/badge/IoT-6C63FF?style=flat-square" alt="IoT"/>
@@ -213,14 +216,14 @@ Smart city solution that optimizes traffic signals in real time using traffic de
 <tr>
 <td width="50%" valign="top">
 
-### Data Visualization Dashboard
+### 📊 Data Visualization Dashboard
 **Python · Pandas · Matplotlib · Power BI**
 
-Interactive analytics dashboard that transforms raw datasets into actionable business insights through visual storytelling.
+Raw spreadsheets in, decisions out. An interactive dashboard that turns messy datasets into a story someone actually wants to read.
 
-- Interactive, filterable dashboards
-- Automated data insight generation
-- Custom charts and visual analytics
+- Interactive, filterable views
+- Automated insight generation
+- Custom charts &amp; visual analytics
 
 <img src="https://img.shields.io/badge/Analytics-6C63FF?style=flat-square" alt="Analytics"/>
 <img src="https://img.shields.io/badge/BI-6C63FF?style=flat-square" alt="BI"/>
@@ -234,7 +237,7 @@ Interactive analytics dashboard that transforms raw datasets into actionable bus
 
 <div align="center">
 
-**More projects on my profile**
+**There's more where that came from**
 
 <a href="https://github.com/sachin-sac825?tab=repositories">
 <img src="https://img.shields.io/badge/View%20All%20Repositories-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
@@ -248,7 +251,7 @@ Interactive analytics dashboard that transforms raw datasets into actionable bus
 
 <br/>
 
-## GitHub Analytics
+## 📈 GitHub, By the Numbers
 
 <div align="center">
 
@@ -269,7 +272,7 @@ Interactive analytics dashboard that transforms raw datasets into actionable bus
 
 <div align="center">
 
-### Trophies
+### Trophy Case
 
 <img src="https://github-profile-trophy.vercel.app/?username=sachin-sac825&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
 
@@ -277,12 +280,9 @@ Interactive analytics dashboard that transforms raw datasets into actionable bus
 
 <br/>
 
-<!-- ================= CONTRIBUTION SNAKE ================= -->
 <div align="center">
 
-
-
-### Contribution Snake
+### The Snake Eating My Commits
 
 <img src="https://raw.githubusercontent.com/sachin-sac825/sachin-sac825/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
 
@@ -290,37 +290,39 @@ Interactive analytics dashboard that transforms raw datasets into actionable bus
 
 <br/>
 
-## Certifications
+## 🏅 Certifications
 
 <div align="center">
 
-| Certification | Issuing Organization | Status |
+| Certification | Issuer | Date |
 |---|---|---|
-| Add certification title | Add issuer | Add year |
-| Add certification title | Add issuer | Add year |
-| Add certification title | Add issuer | Add year |
+| AWS Academy Graduate — Cloud Foundations (Training Badge) | AWS | Apr 2026 |
+| Google Cloud Career Launchpad — Cloud Engineer Track | Google Cloud | Nov 2025 |
+| Postman API Fundamentals Student Expert | Postman | Feb 2026 |
+| Prompt Engineering for Everyone | Cognitive Class (IBM) | Mar 2026 |
+| Web Development Using JavaScript | NCET | Sep 2024 |
+| Micro-Certification: Welcome to ServiceNow | ServiceNow | Mar 2026 |
+| Unity Essentials Pathway | Unity | Sep 2025 |
 
 </div>
 
-<p align="center"><i>Replace the table above with your verified certifications (e.g., NPTEL, Coursera, Google, IBM, Microsoft Learn).</i></p>
+<br/>
+
+## 🎯 Why Work With Me
+
+- Ship end-to-end AI/ML projects across computer vision, fraud detection, and smart-city automation — not just notebooks that never leave the sandbox
+- Comfortable across the stack: cloud fundamentals (AWS, GCP), API tooling (Postman), and enterprise platforms (ServiceNow)
+- Actively pushing toward production-grade AI — Docker, FastAPI, and LLM-based agents are all in daily rotation
+- Strong DSA foundation in Python, because clever models still need solid engineering underneath
 
 <br/>
 
-## Achievements
+## 💭 A Few Truths About How I Work
 
-- Actively building and shipping end-to-end AI/ML projects spanning computer vision, fraud detection, and smart-city automation
-- Hands-on experience applying machine learning to real-world, data-driven problems
-- Consistently expanding skill set toward production-grade AI systems (LLMs, Docker, FastAPI, GenAI)
-- Strong foundation in Data Structures &amp; Algorithms with Python
-
-<br/>
-
-## Fun Facts
-
-- I enjoy translating research-level ML concepts into practical, working applications
-- My projects usually start with the question: *"Can this be automated with AI?"*
-- Currently exploring how LLM-based agents can automate everyday engineering workflows
-- Believer in clean code, clear documentation, and continuous learning
+- Every project starts with the same question: *"Can this be automated with AI?"*
+- I'd rather ship something small and working than something big and theoretical
+- Currently most curious about how LLM agents can take over the boring parts of engineering work
+- Clean code and clear docs aren't optional — they're the whole point
 
 <br/>
 
@@ -332,11 +334,11 @@ Interactive analytics dashboard that transforms raw datasets into actionable bus
 
 <br/>
 
-## Connect with Me
+## 📬 Let's Build Something
 
 <div align="center">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sachin-s-430873355/">
+<a href="https://www.linkedin.com/in/sachin-s-430873355/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:oneandonlysachin30@gmail.com">
@@ -345,8 +347,7 @@ Interactive analytics dashboard that transforms raw datasets into actionable bus
 <a href="https://github.com/sachin-sac825">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-<a href="https://leetcode.com/leetcode.com/u/Sachincoder25/">
+<a href="https://leetcode.com/u/Sachincoder25/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
