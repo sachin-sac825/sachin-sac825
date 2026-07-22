@@ -4,13 +4,13 @@
 
 <!-- ================= TYPING BANNER ================= -->
 <a href="https://github.com/sachin-sac825">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=850&lines=I+teach+machines+to+see%2C+decide%2C+and+act;I'm+Sachin+S+%E2%80%94+AI+%26+ML+Engineer+in+training;Currently%3A+turning+gestures+into+commands;Currently%3A+turning+transactions+into+trust+scores;Next%3A+your+team%3F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=850&lines=I+teach+machines+to+see%2C+decide%2C+and+act;I'm+Sachin+S+%E2%80%94+AI+%26+ML+Engineer+in+training;Currently%3A+turning+gestures+into+commands;Currently%3A+turning+transactions+into+trust+scores;Next%3A+your+team%3F" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sachin-sac825&style=flat-square&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/sachin-sac825?style=flat-square&color=6C63FF&label=FOLLOWERS" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=sachin-sac825&style=flat-square&color=00FF9C&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/sachin-sac825?style=flat-square&color=00FF9C&label=FOLLOWERS" alt="Followers"/>
 
 </div>
 
@@ -33,13 +33,13 @@ Currently hunting for an internship where I can break (and fix) things at scale.
 
 <p align="center">
   <a href="mailto:oneandonlysachin30@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's_Talk-6C63FF?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-00FF9C?style=flat-square&logo=gmail&logoColor=black" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/sachin-s-430873355">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00FF9C?style=flat-square&logo=linkedin&logoColor=black" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/sachin-sac825">
-    <img src="https://img.shields.io/badge/GitHub-Follow-6C63FF?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-00FF9C?style=flat-square&logo=github&logoColor=black" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/u/Sachincoder25/">
     <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
@@ -87,12 +87,12 @@ sachin_s:
 
 **AI / ML / Data**
 
-<img src="https://img.shields.io/badge/Machine%20Learning-6C63FF?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-00FF9C?style=for-the-badge&logo=scikitlearn&logoColor=black" alt="Machine Learning"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-6C63FF?style=for-the-badge&logo=powerbi&logoColor=white" alt="Data Visualization"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-00FF9C?style=for-the-badge&logo=powerbi&logoColor=black" alt="Data Visualization"/>
 
 **Tools, Cloud &amp; Platforms**
 
@@ -126,8 +126,8 @@ sachin_s:
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-<img src="https://img.shields.io/badge/Generative%20AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/LLM%20Agents-6C63FF?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Agents"/>
+<img src="https://img.shields.io/badge/Generative%20AI-00FF9C?style=for-the-badge&logo=openai&logoColor=black" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/LLM%20Agents-00FF9C?style=for-the-badge&logo=openai&logoColor=black" alt="LLM Agents"/>
 
 </div>
 
@@ -149,8 +149,8 @@ No mouse, no remote — just your hand and a webcam. Real-time gesture recogniti
 - Volume + fullscreen control
 - Sub-second detection pipeline
 
-<img src="https://img.shields.io/badge/Computer%20Vision-6C63FF?style=flat-square" alt="Computer Vision"/>
-<img src="https://img.shields.io/badge/Automation-6C63FF?style=flat-square" alt="Automation"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-00FF9C?style=flat-square" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/Automation-00FF9C?style=flat-square" alt="Automation"/>
 
 **[View Repository →](https://github.com/sachin-sac825/hand-gesture-app)**
 
@@ -167,7 +167,7 @@ A comprehensive NLP system that extracts and analyzes supplier-customer relation
 - Network metrics &amp; structure analysis
 
 <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square" alt="spaCy"/>
-<img src="https://img.shields.io/badge/NetworkX-6C63FF?style=flat-square" alt="NetworkX"/>
+<img src="https://img.shields.io/badge/NetworkX-00FF9C?style=flat-square" alt="NetworkX"/>
 
 **[View Repository →](https://github.com/sachin-sac825/newssupplychain)**
 
@@ -187,8 +187,8 @@ Built to catch the transaction that shouldn't exist. Engineered features and sup
 - Fraud prediction via ML models
 - Evaluated on accuracy, precision, recall
 
-<img src="https://img.shields.io/badge/FinTech-6C63FF?style=flat-square" alt="FinTech"/>
-<img src="https://img.shields.io/badge/ML%20Classification-6C63FF?style=flat-square" alt="ML Classification"/>
+<img src="https://img.shields.io/badge/FinTech-00FF9C?style=flat-square" alt="FinTech"/>
+<img src="https://img.shields.io/badge/ML%20Classification-00FF9C?style=flat-square" alt="ML Classification"/>
 
 **[View Repository →](https://github.com/sachin-sac825/upi-fraud-detection)**
 
@@ -205,8 +205,8 @@ Signals that think. Real-time traffic density analysis reroutes green lights and
 - Emergency vehicle prioritization
 - Measurably reduced congestion
 
-<img src="https://img.shields.io/badge/Smart%20City-6C63FF?style=flat-square" alt="Smart City"/>
-<img src="https://img.shields.io/badge/IoT-6C63FF?style=flat-square" alt="IoT"/>
+<img src="https://img.shields.io/badge/Smart%20City-00FF9C?style=flat-square" alt="Smart City"/>
+<img src="https://img.shields.io/badge/IoT-00FF9C?style=flat-square" alt="IoT"/>
 
 **[View Repository →](https://github.com/sachin-sac825/smart-traffic-management)**
 
@@ -225,8 +225,8 @@ Raw spreadsheets in, decisions out. An interactive dashboard that turns messy da
 - Automated insight generation
 - Custom charts &amp; visual analytics
 
-<img src="https://img.shields.io/badge/Analytics-6C63FF?style=flat-square" alt="Analytics"/>
-<img src="https://img.shields.io/badge/BI-6C63FF?style=flat-square" alt="BI"/>
+<img src="https://img.shields.io/badge/Analytics-00FF9C?style=flat-square" alt="Analytics"/>
+<img src="https://img.shields.io/badge/BI-00FF9C?style=flat-square" alt="BI"/>
 
 **[View Repository →](https://github.com/sachin-sac825/data-visualization-dashboard)**
 
@@ -240,7 +240,7 @@ Raw spreadsheets in, decisions out. An interactive dashboard that turns messy da
 **There's more where that came from**
 
 <a href="https://github.com/sachin-sac825?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+<img src="https://img.shields.io/badge/View%20All%20Repositories-00FF9C?style=for-the-badge&logo=github&logoColor=black" alt="View All Repositories"/>
 </a>
 
 </div>
@@ -255,10 +255,10 @@ Raw spreadsheets in, decisions out. An interactive dashboard that turns messy da
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sachin-sac825&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-sac825&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sachin-sac825&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-sac825&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-sac825&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-sac825&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideNums=00FF9C&dates=8B949E" alt="GitHub Streak"/>
 
 </div>
 
@@ -266,7 +266,7 @@ Raw spreadsheets in, decisions out. An interactive dashboard that turns messy da
 
 ### Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-sac825&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-sac825&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C" alt="Activity Graph" width="100%"/>
 
 </div>
 
@@ -274,7 +274,7 @@ Raw spreadsheets in, decisions out. An interactive dashboard that turns messy da
 
 ### Trophy Case
 
-<img src="https://github-profile-trophy.vercel.app/?username=sachin-sac825&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sachin-sac825&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
 
 </div>
 
@@ -361,6 +361,6 @@ Raw spreadsheets in, decisions out. An interactive dashboard that turns messy da
 
 <sub>Designed and maintained by <b>Sachin S</b> · Last updated 2026</sub>
 
-<img src="https://img.shields.io/badge/Open%20to-Internship%20Opportunities-6C63FF?style=for-the-badge" alt="Open to Internship Opportunities"/>
+<img src="https://img.shields.io/badge/Open%20to-Internship%20Opportunities-00FF9C?style=for-the-badge&logoColor=black" alt="Open to Internship Opportunities"/>
 
 </div>
