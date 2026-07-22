@@ -154,21 +154,28 @@ No mouse, no remote — just your hand and a webcam. Real-time gesture recogniti
 
 **[View Repository →](https://github.com/sachin-sac825/hand-gesture-app)**
 
+</td>
 <td width="50%" valign="top">
 
 ### 🔗 Supply Chain NLP Analysis
 **Python · spaCy · NetworkX**
+
 A comprehensive NLP system that extracts and analyzes supplier-customer relationships from news articles — turning raw text into a structured supply chain network graph.
 
 - Named Entity Recognition (NER) for organizations
 - Pattern-based relationship extraction
-- Network metrics & structure analysis
+- Network metrics &amp; structure analysis
 
 <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square" alt="spaCy"/>
 <img src="https://img.shields.io/badge/NetworkX-6C63FF?style=flat-square" alt="NetworkX"/>
 
-**[View Repository →](https://github.com/sachin-sac825/newssupplychain.git)**
+**[View Repository →](https://github.com/sachin-sac825/newssupplychain)**
+
 </td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 💳 UPI Fraud Detection System
 **Python · Machine Learning · Pandas · NumPy · Scikit-learn**
@@ -303,7 +310,7 @@ Raw spreadsheets in, decisions out. An interactive dashboard that turns messy da
 
 ## 🎯 Why Work With Me
 
-- Ship end-to-end AI/ML projects across computer vision, fraud detection, and smart-city automation — not just notebooks that never leave the sandbox
+- Ship end-to-end AI/ML projects across computer vision, fraud detection, NLP, and smart-city automation — not just notebooks that never leave the sandbox
 - Comfortable across the stack: cloud fundamentals (AWS, GCP), API tooling (Postman), and enterprise platforms (ServiceNow)
 - Actively pushing toward production-grade AI — Docker, FastAPI, and LLM-based agents are all in daily rotation
 - Strong DSA foundation in Python, because clever models still need solid engineering underneath
