@@ -256,39 +256,36 @@ Raw spreadsheets in, decisions out. An interactive dashboard that turns messy da
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=sachin-sac825&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-sac825&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-sac825&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideNums=00FF9C&dates=8B949E" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=sachin-sac825&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideNums=00FF9C&dates=8B949E" alt="GitHub Streak"/>
 
 </div>
 
+---
+
 <div align="center">
 
-### Contribution Activity
+### 📊 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-sac825&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-sac825&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
-<div align="center">
+---
 
-### Trophy Case
 
-<img src="https://github-profile-trophy.vercel.app/?username=sachin-sac825&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
 
-</div>
-
-<br/>
+---
 
 <div align="center">
 
-### The Snake Eating My Commits
+### 🐍 The Snake Eating My Commits
 
 <img src="https://raw.githubusercontent.com/sachin-sac825/sachin-sac825/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
 
 </div>
-
-<br/>
 
 ## 🏅 Certifications
 
