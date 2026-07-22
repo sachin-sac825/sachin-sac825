@@ -154,28 +154,21 @@ No mouse, no remote — just your hand and a webcam. Real-time gesture recogniti
 
 **[View Repository →](https://github.com/sachin-sac825/hand-gesture-app)**
 
-</td>
 <td width="50%" valign="top">
 
-### 🤖 AI Agents
-**Python · LLMs · Automation**
+### 🔗 Supply Chain NLP Analysis
+**Python · spaCy · NetworkX**
+A comprehensive NLP system that extracts and analyzes supplier-customer relationships from news articles — turning raw text into a structured supply chain network graph.
 
-An autonomous agent framework that takes a goal, breaks it into steps, and just... does the task. Structured prompt engineering meets real workflow automation.
+- Named Entity Recognition (NER) for organizations
+- Pattern-based relationship extraction
+- Network metrics & structure analysis
 
-- Multi-step task automation
-- AI-driven decision workflows
-- Custom prompt pipelines
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square" alt="spaCy"/>
+<img src="https://img.shields.io/badge/NetworkX-6C63FF?style=flat-square" alt="NetworkX"/>
 
-<img src="https://img.shields.io/badge/LLM-6C63FF?style=flat-square" alt="LLM"/>
-<img src="https://img.shields.io/badge/Agents-6C63FF?style=flat-square" alt="Agents"/>
-
-**[View Repository →](https://github.com/sachin-sac825/ai-agents)**
-
+**[View Repository →](https://github.com/sachin-sac825/newssupplychain.git)**
 </td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
 
 ### 💳 UPI Fraud Detection System
 **Python · Machine Learning · Pandas · NumPy · Scikit-learn**
